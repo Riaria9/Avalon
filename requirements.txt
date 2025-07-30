@@ -1,0 +1,9 @@
+autogen
+fastapi
+logger
+pandas
+websockets
+autogen-agentchat[gemini]
+flaml[automl]
+groq
+uvicorn
